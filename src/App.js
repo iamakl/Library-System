@@ -1,5 +1,5 @@
 import React from 'react';
-import LibrarySystem from 'E:\Richpanel\fb-helpdesk-app\fb-helpdesk-app\src\LibrarySystem.js';
+import LibrarySystem from './LibrarySystem';
 
 function App() {
   return (
