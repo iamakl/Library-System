@@ -1,14 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Login from './Components/Login';
-import Registration from './Components/Registrations';
+import React from 'react';
+import LibrarySystem from 'E:\Richpanel\fb-helpdesk-app\fb-helpdesk-app\src\LibrarySystem.js';
 
 function App() {
   return (
-    <>
-    <Login/>
-    <Registration/>
-    </>
+    <div className="App">
+      <LibrarySystem />
+    </div>
   );
 }
 
